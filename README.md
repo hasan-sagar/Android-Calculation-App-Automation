@@ -31,3 +31,8 @@ Running gradle command lines and generating reports using Allure.
 ### Allure Report Behavior
 ![image](https://github.com/hasan-sagar/Android-Calculation-App-Automation/assets/61242766/1a378bc8-b20f-4a14-8c92-36a4b93ca456)
 
+## Video Output
+https://github.com/hasan-sagar/Android-Calculation-App-Automation/assets/61242766/b65415a1-d0bd-4925-a7bf-33bcb496e07b
+
+
+
